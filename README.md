@@ -91,7 +91,7 @@ Kubernetes, Docker, ArgoCD, Terraform/OpenTofu, CI/CD, Grafana/Prometheus
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnttonioAzevedo&show_icons=true&hide_border=true&bg_color=ece6d8&title_color=c92f06&icon_color=c92f06&text_color=3b372f&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnttonioAzevedo&show_icons=true&hide_border=true&bg_color=ece6d8&title_color=c92f06&icon_color=c92f06&text_color=3b372f" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnttonioAzevedo&hide_border=true&background=ece6d8&stroke=c92f06&ring=c92f06&fire=c92f06&currStreakLabel=3b372f&sideLabels=3b372f&dates=3b372f&currStreakNum=1a1a1a&sideNums=1a1a1a" />
 
 </div>
